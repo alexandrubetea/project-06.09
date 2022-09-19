@@ -384,9 +384,6 @@ display:inline-flex;
 
 
 }
-.image-section6{
-
-}
 
 .h1-section6 {
   font-size: 5rem;
@@ -418,3 +415,117 @@ width: 75%;
 }
 
 /* section6 ends */
+/* section7 starts */
+
+.section7 {
+  position: relative;
+  margin-top: 6rem;
+
+}
+
+.h1-section7 {
+  font-size: 3rem;
+      width: 30%;
+      margin: auto;
+      text-align: center;
+      padding-top: 6rem;
+      padding-bottom: 4rem;
+}
+
+.customers-section7 {
+  display: flex;
+  text-align: center;
+  width: 70%;
+  margin:auto;
+
+}
+
+.Arrow1 {
+  position: absolute;
+  margin-left: 10rem;
+margin-top: 22rem;
+
+}
+
+.Arrow2 {
+  position: absolute;
+  margin-left: 57rem;
+margin-top: 5rem;
+
+}
+.Scribble-Dark-section7 {
+  float: right;
+}
+
+.customer1 {
+  margin-left:1rem;
+  border: 0.2rem solid black;
+  border-radius: 0.5rem;
+  padding:1rem;
+}
+
+.Scribble-Dark-section7up {
+  position: absolute;
+}
+
+
+
+/* section7 ends */
+
+/* section9 starts */
+
+.section8 {
+position: relative;
+padding-top:6rem;
+}
+
+.h1-section8 {
+
+  margin-top: 8rem;
+font-size: 4rem;
+margin-left: 6rem;
+padding-bottom: 3rem;
+
+}
+
+.form_update {
+
+margin-left: 6rem;
+margin-right:10rem;
+}
+
+.form_beupdate {
+
+  float: left;
+
+}
+
+.sectiton8-photo {
+
+padding-top:5rem;
+
+position: absolute;
+}
+
+
+input[type=text], select, textarea {
+ padding: 12px;
+ border: 1px solid #ccc;
+border-radius: 4px;
+margin-top: 6px;
+margin-bottom: 16px;
+width: 20rem;
+}
+
+input[type=submit] {
+background: black;
+color: white;
+  border: none;
+border-radius: 4px;
+ padding: 12px 20px;
+     width: 20rem;
+}
+
+
+
+/* section9 ends */
